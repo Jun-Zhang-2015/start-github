@@ -201,6 +201,6 @@ int main(void)
   while(1)
   {
    // ADC_startConversion(ADC_BASE, ADC_REPEATED_SINGLECHANNEL);
-
+    // see how the swap works
   }
 }
